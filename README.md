@@ -1,4 +1,4 @@
-# AI-ML-DS_exercises
+# Python_exercises
 Learn, share, collaborate & implement.
 ...
 ### Software used: 
